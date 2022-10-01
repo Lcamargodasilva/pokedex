@@ -5,6 +5,10 @@
 ![projeto](https://user-images.githubusercontent.com/104536443/193422099-b4f50e8b-1c4e-4e84-8c5e-ec25a2fd97b3.PNG)
 
 
+## Link do projeto
+
+<a href="https://lcamargodasilva.github.io/pokedex/">Pokedex Projeto</a>
+
 Nesse projeto o objetivo foi recriar uma aplicação aonde se pode pesquisar pokemons, onde utilizei seguintes linguagens.
 
 ### Tecnologias utilizadas
